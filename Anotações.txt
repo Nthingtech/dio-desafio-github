@@ -1,0 +1,4 @@
+Arquivo exemplo para desafio Git/GitHub da Dio
+
+dica
+Fazer a diferença está nos detalhes. Então quando iniciar um repositório principal, troque o nome da sua branch master por main ;)
